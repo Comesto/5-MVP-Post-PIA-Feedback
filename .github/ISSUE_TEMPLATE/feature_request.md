@@ -37,8 +37,5 @@ Technical Debt?
 
 # **Tasks**
 
-- [ ] Task 1 
-- [ ] Task 2
-- [ ] Task 3
-- [ ] Task 4
-- [ ] Task 5
+- [ ] Wireframe 
+- [ ] Paul Triggs to complete engineering requirements (particulaly estimated build time)
